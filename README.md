@@ -28,3 +28,8 @@ In this project, we'll build an [API](https://en.wikipedia.org/wiki/Application_
 * [Mongodb](https://www.mongodb.com/) database using [Mongoose](https://mongoosejs.com/) ORM
 * [Redis](https://redis.io/) cache
 
+## Developing Locally
+* Download and install [docker](https://www.docker.com/products/docker-desktop)
+* Open a terminal, navigate to the project root and run `docker-compose up -d`. You don't need to install [Mongodb](https://www.mongodb.com/) or [Redis](https://redis.io/) on your machine as it is provided in the [docker](https://www.docker.com/) container
+* From the project root, in the terminal, run `npm start:dev` to start the application server
+
