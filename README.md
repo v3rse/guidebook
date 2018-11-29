@@ -24,7 +24,7 @@ In this project, we'll build an [API](https://en.wikipedia.org/wiki/Application_
 * A logged in user can authorize the application to sync with his/her Google calendar. If the user has authorized use of Google calendar, the application will modify the user's calendar when a to-do item is created, edited or deleted. 
 
 ## Tools/Frameworks
-* [NodeJS Koa framework]()
-* [Mongodb] database using [Mongoose] ORM
-* [Redis] cache
+* [NodeJS Koa framework](https://koajs.com/)
+* [Mongodb](https://www.mongodb.com/) database using [Mongoose](https://mongoosejs.com/) ORM
+* [Redis](https://redis.io/) cache
 
