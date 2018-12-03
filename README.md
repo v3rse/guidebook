@@ -27,6 +27,11 @@ In this project, we'll build an [API](https://en.wikipedia.org/wiki/Application_
 * [NodeJS Koa framework](https://koajs.com/)
 * [Mongodb](https://www.mongodb.com/) database using [Mongoose](https://mongoosejs.com/) ORM
 * [Redis](https://redis.io/) cache
+* [Jest](https://jestjs.io/) for testing
+* [Babel](https://babeljs.io/) for transpiling code. This allows us to you `import/export` in NodeJS
+* [eslint](https://eslint.org/) for linting code using rules from [Airbnb style guide](https://github.com/airbnb/javascript)
+* [prettier](https://prettier.io/) for formatting code
+* [husky](https://github.com/typicode/husky) for managing git hooks
 
 ## Developing Locally
 * Download and install [docker](https://www.docker.com/products/docker-desktop)
